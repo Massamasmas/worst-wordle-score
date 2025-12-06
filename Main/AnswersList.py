@@ -201,7 +201,7 @@ answersList1 = [
  "hoist", "holly", "homer", "honey", "honor",    
  "horde", "horny", "horse", "hotel", "hotly",    
  "hound", "house", "hovel", "hover", "howdy"]
-length1 = len(answersList1)
+anslength1 = len(answersList1)
 
 answersList2 = [
     "human", "humid", "humor", "humph", "humus",
@@ -405,7 +405,7 @@ answersList2 = [
  "swoon", "swoop", "sword", "swore", "sworn",    
  "swung", "synod", "syrup", "tabby", "table"
 ]
-length2 = len(answersList2)
+anslength2 = len(answersList2)
 
 answersList3 = [
     "taboo", "tacit", "tacky", "taffy", "taint",
@@ -472,8 +472,8 @@ answersList3 = [
  "wryly", "yacht", "yearn", "yeast", "yield",    
  "young", "youth", "zebra", "zesty", "zonal"
 ]
-length3 = len(answersList3)
+anslength3 = len(answersList3)
 
 
-answersListTL = length1 + length2 + length3
-print("Total length in answersList: " + str(answersListTL))
+answersListTL = anslength1 + anslength2 + anslength3
+#print("Total length in answersList: " + str(answersListTL))

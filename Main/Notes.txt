@@ -1,0 +1,37 @@
+12/5/25
+i just learned that Answerslist's words
+are not included in ValidGuessList. so that sucks.
+
+i also decided to create this notes doc so
+i can jot down my thought without needing to rely
+on google docs.
+
+anyway... i should layout my broad plan rn, huh?
+
+so, structure:
+
+set of lists containing possible guesses and
+correct answers (which i now realize i should
+maybe combine into one set of lists, considering
+that the words in Answerslist1-3 aren't included
+in ValidGuessList1-11)
+
+set of methods to analyze that data
+    getLetters(word)
+    returns a list of getLetters
+    retrieved from a given string
+    (which i now realize is a built-in method,
+    but eh. it works)
+
+    checkLetters(gWord, aWord)
+    returns an int value depending on how
+    many characters are shared between two given
+    words, and whether those chars are found at
+    the same index. Only works if the words are
+    the same length.
+
+anyway thats the current state of things. i will
+now update the github. man i am tired.
+
+
+
